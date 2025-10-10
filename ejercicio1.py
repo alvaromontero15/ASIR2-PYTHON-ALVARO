@@ -1,4 +1,4 @@
-numero= int(input("Escriba el número deseado para calcular su cuadrado"))
+numero= int(input("Escriba el número deseado para calcular su cuadrado: "))
 resultado = numero * numero
 solucion = resultado
-print(solucion)
+print("El cuadrado de", numero, "es", solucion)
